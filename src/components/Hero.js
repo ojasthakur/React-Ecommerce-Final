@@ -13,9 +13,7 @@ const Hero = () => {
           comfort zone
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore
-          pariatur molestiae unde fugiat officia voluptate numquam, quibusdam in
-          soluta rem.
+          Bring color to your home with the latest launch of t-mart products. Fill Space with style and never fall behind on the latest trends with t-mart!
         </p>
         <Link to="/products" className="btn hero-btn">
           shop now

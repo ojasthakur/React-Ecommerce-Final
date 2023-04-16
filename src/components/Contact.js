@@ -8,9 +8,7 @@ const Contact = () => {
         <h3>Join our newsletter and get 20% off</h3>
         <div className="content">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente
-            voluptas sunt quod vero delectus repudiandae quis dolor, eligendi
-            asperiores cumque?
+            Get the latest in furniture trends right in your inbox! T-mart newsletter is the second best way to keep yourself updated with our catalogue, right after our products page. 
           </p>
           <form
             action="https://formspree.io/f/xknaqajg"

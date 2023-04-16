@@ -13,9 +13,8 @@ const Services = () => {
             built only for you
           </h3>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Libero
-            facilis corrupti repellat repellendus accusantium, laborum dolor.
-            Tempora est ducimus amet.
+            T-mart is the leading online platform in furniture sales all across
+            the globe and is know for its robustness in the following key areas:
           </p>
         </article>
         <div className="services-center">

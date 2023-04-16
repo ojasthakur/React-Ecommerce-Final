@@ -22,20 +22,20 @@ export const services = [
   {
     id: 1,
     icon: <GiCompass />,
-    title: "mission",
-    text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi",
+    title: "World Wide Shipping",
+    text: "A well lubricated machine of logistics, T-mart will deliver no matter where you are within 7 days or less",
   },
   {
     id: 2,
     icon: <GiDiamondHard />,
-    title: "vision",
-    text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi",
+    title: "Product Quality",
+    text: "All T-mart products go through rigorous quality analysis and only the finest materials from all over the world are used to guarantee a smile on our customers as the use our products!",
   },
   {
     id: 3,
     icon: <GiStabbedNote />,
-    title: "history",
-    text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, ea. Perferendis corrupti reiciendis nesciunt rerum velit autem unde numquam nisi",
+    title: "Warranty",
+    text: "All T-mart products are covered by a no questions asked, 3 year warranty. T-mart will find a solution to your product related issues and a replacement will be issues in case of product failure",
   },
 ];
 

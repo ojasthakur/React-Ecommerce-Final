@@ -1,6 +1,8 @@
 import React from "react";
 import styled from "styled-components";
 import logo from "../assets/logo.svg";
+import logo2 from "../assets/2.png";
+import logo3 from "../assets/3.png";
 import { FaBars } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import { links } from "../utils/constants";
@@ -16,7 +18,7 @@ const Nav = () => {
       <div className="nav-center">
         <div className="nav-header">
           <Link to="/">
-            <img src={logo} alt="nav logo" />
+            <img src={logo3} alt="nav logo" />
           </Link>
           <button type="button" className="nav-toggle" onClick={openSidebar}>
             <FaBars />
